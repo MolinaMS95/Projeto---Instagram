@@ -1,0 +1,11 @@
+@media (max-width: 935px) {
+  .barraTopo > div {
+    width: 100%;
+  }
+  .conteudo {
+    width: 614px;
+  }
+  .sidebar {
+    display: none;
+  }
+}
