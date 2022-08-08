@@ -20,6 +20,9 @@
   .conteudo {
     width: 100%;
   }
+  .esquerda {
+    width: 100%;
+  }
   .stories {
     background-color: none;
     width: 100%;
@@ -54,5 +57,10 @@
   }
   .barraInferior ion-icon {
     font-size: 25px;
+  }
+  .posts > video {
+    width: 100%;
+    height: auto;
+    margin-bottom: 13px;
   }
 }
